@@ -1,6 +1,6 @@
-# TerrSet Geospatial Monitoring and Modeling Software (v18.31)
+# TerrSet 2020 Geospatial Monitoring and Modeling Software (v19.08)
 
-This repository contains the installation files and guide for TerrSet Geospatial Monitoring and Modeling Software (v18.31). This is not the latest version of TerrSet, and you need to have bought a license before Dec 2nd, 2024 to be able to use the software. To access the latest free version of TerrSet navigate to [releases](https://github.com/ClarkCGA/terrset/releases) page.
+This repository contains the installation files and guide for TerrSet 2020 Geospatial Monitoring and Modeling Software (v19.08). This is not the latest version of TerrSet, and you need to have bought a license before Dec 2nd, 2024 to be able to use the software. To access the latest free version of TerrSet navigate to [releases page](https://github.com/ClarkCGA/terrset/releases).
 
 ## Download
 
