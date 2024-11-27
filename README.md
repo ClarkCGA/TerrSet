@@ -1,6 +1,6 @@
-# TerrSet 2020 Geospatial Monitoring and Modeling Software (v19.08)
+# TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.00)
 
-This repository contains the installation files and guide for TerrSet 2020 Geospatial Monitoring and Modeling Software (v19.08). This is not the latest version of TerrSet, and you need to have bought a license before Dec 2nd, 2024 to be able to use the software. To access the latest free version of TerrSet navigate to [releases page](https://github.com/ClarkCGA/terrset/releases).
+This repository contains the installation files and guide for TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.00). This is the latest version of TerrSet that has been released as a free software on Dec 2nd, 20204. 
 
 ## Download
 
@@ -23,7 +23,7 @@ Check out the Installation and License Manager guide in the [Installation_Guide]
 
 ## Tutorial Data
 
-The tutorial data for TerrSet are available in a repository on Zenodo ([link](https://doi.org/10.5281/zenodo.14201430)). You can download the data specific to each module or for all modules as a zipped folder from Zenodo. 
+The tutorial data for TerrSet are available in a repository on Zenodo ([link](https://zenodo.org/records/14202001)). You can download the data specific to each module or for all modules as a zipped folder from Zenodo. 
 
 ## Support
 
