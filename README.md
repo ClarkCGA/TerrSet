@@ -19,7 +19,7 @@ TerrSet is an object-oriented system designed for professional-level use on plat
 
 ## Installation
 
-Check out the Installation and License Manager guide in the [Installation_Guide](./Installation_Guide/) folder, and follow the steps required to install the software and activate your license.  
+Check out the Installation guide in the [Installation_Guide](./Installation_Guide/) folder, and follow the steps required to install the software.  
 
 ## Tutorial Data
 
