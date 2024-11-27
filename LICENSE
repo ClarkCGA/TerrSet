@@ -1,0 +1,56 @@
+TERRSET END USER LICENSE AGREEMENT
+
+Licensee is granted a non-exclusive, limited license to use the executable TerrSet Software (the “Software”) and
+ its related documentation subject to the terms and conditions of this Agreement.
+
+The source code for this Software remains the property of Clark University.  Licensee may not reverse-engineer, 
+decompile, disassemble, decode, or otherwise attempt to derive or gain access to the source code of this Software 
+or any part thereof.  No part of the software, or help system may be stored in a retrieval system, or transmitted, 
+in any form or by any means, electronic, mechanical, photocopy, recording, or otherwise without written consent of 
+Clark Center for Geospatial Analytics.  Direct translation of any part of the help system is also prohibited 
+without the written permission of the copyright holder.  
+
+Licensee may not remove, delete, alter, or obscure any trademarks, or any copyright, trademark, patent, or other
+intellectual property or proprietary rights notices.  The documentation accompanying the Software is released
+under the Creative Commons license CC BY-NC 4.0: https://creativecommons.org/licenses/by-nc/4.0/.  All rights are
+reserved.  IDRISI and Land Change Modeler are registered trademarks of Clark University.  Windows and Access are
+trademarks of Microsoft Corporation.  ArcGIS is a trademark of Environmental Systems Research Institute, Inc.
+Acrobat Reader Copyright 1987-2020 Adobe Systems Incorporated. All rights reserved. Adobe and the Adobe logo are
+trademarks of Adobe Systems Incorporated. All other product names mentioned in the Software or documentation may
+be trademarks or registered trademarks of their respective companies.
+
+THE SOFTWARE AND DOCUMENTATION ARE PROVIDED TO LICENSEE “AS IS” AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY
+OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, CLARK UNIVERSITY ON ITS OWN BEHALF AND ON BEHALF
+OF ITS AFFILIATES AND CLARK CENTER FOR GEOSPATIAL ANALYTICS EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS,
+IMPLIED, STATUTORY, OR OTHERWISE, WITH RESPECT TO THE SOFTWARE AND DOCUMENTATION, INCLUDING ALL IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, AND WARRANTIES THAT MAY ARISE OUT
+OF COURSE OF DEALING, COURSE OF PERFORMANCE, USAGE, OR TRADE PRACTICE. WITHOUT LIMITATION TO THE FOREGOING, THE
+LICENSOR PROVIDES NO WARRANTY OR UNDERTAKING, AND MAKES NO REPRESENTATION OF ANY KIND THAT THE SOFTWARE WILL MEET
+THE LICENSEE’S REQUIREMENTS, ACHIEVE ANY INTENDED RESULTS, BE COMPATIBLE, OR WORK WITH ANY OTHER SOFTWARE,
+APPLICATIONS, SYSTEMS, OR SERVICES, OPERATE WITHOUT INTERRUPTION, MEET ANY PERFORMANCE OR RELIABILITY STANDARDS
+OR BE ERROR FREE, OR THAT ANY ERRORS OR DEFECTS CAN OR WILL BE CORRECTED.
+
+IN NO EVENT WILL CLARK UNIVERSITY, ITS AFFILIATES, CLARK CENTER FOR GEOSPATIAL ANALYTICS OR ANY OF ITS OR THEIR
+RESPECTIVE LICENSORS OR SERVICE PROVIDERS, BE LIABLE TO LICENSEE OR ANY THIRD PARTY FOR ANY USE, INTERRUPTION,
+DELAY, OR INABILITY TO USE THE SOFTWARE; LOST REVENUES OR PROFITS; DELAYS, INTERRUPTION, OR LOSS OF SERVICES,
+BUSINESS, OR GOODWILL; LOSS OR CORRUPTION OF DATA; LOSS RESULTING FROM SYSTEM OR SYSTEM SERVICE FAILURE,
+MALFUNCTION, OR SHUTDOWN; FAILURE TO ACCURATELY TRANSFER, READ, OR TRANSMIT INFORMATION; FAILURE TO UPDATE OR
+PROVIDE CORRECT INFORMATION; SYSTEM INCOMPATIBILITY OR PROVISION OF INCORRECT COMPATIBILITY INFORMATION; OR BREACHES
+IN SYSTEM SECURITY; OR FOR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT, EXEMPLARY, SPECIAL, OR PUNITIVE DAMAGES, WHETHER
+ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT, BREACH OF CONTRACT, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE,
+REGARDLESS OF WHETHER SUCH DAMAGES WERE FORESEEABLE AND WHETHER OR NOT THE LICENSOR WAS ADVISED OF THE POSSIBILITY
+OF SUCH DAMAGES.
+
+The Software and documentation may be subject to U.S. export control laws, including the Export Control Reform Act
+and its associated regulations. The Licensee shall not, directly or indirectly, export, re-export, or release the
+Software or documentation to, or make the Software or documentation accessible from, any jurisdiction or country to
+which export, re-export, or release is prohibited by law, rule, or regulation. The Licensee shall comply with all
+applicable federal laws, regulations, and rules, and complete all required undertakings (including obtaining any
+necessary export license or other governmental approval), prior to exporting, re-exporting, releasing, or otherwise
+making the Software or documentation available outside the U.S.
+
+All matters arising out of or relating to this Agreement shall be governed by and construed in accordance with the 
+laws of the Commonwealth of Massachusetts without giving effect to any choice or conflict of law provision or rule.
+Any legal suit, action, or proceeding arising out of or relating to this Agreement or the transactions contemplated
+hereby shall be instituted in the applicable federal or state courts of Worcester, Massachusetts, and each party
+irrevocably submits to the non-exclusive jurisdiction of such courts in any such legal suit, action, or proceeding.
