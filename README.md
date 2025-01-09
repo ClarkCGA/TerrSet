@@ -23,7 +23,7 @@ Check out the Installation guide in the [Installation_Guide](./Installation_Guid
 
 ## Tutorial Data
 
-The tutorial data for TerrSet are available in a repository on Zenodo ([link](https://zenodo.org/records/14202001)). You can download the data specific to each module or for all modules as a zipped folder from Zenodo. 
+The tutorial data for TerrSet are available in a repository on Zenodo ([link](https://doi.org/10.5281/zenodo.14202000)). You can download the data specific to each module or for all modules as a zipped folder from Zenodo. 
 
 ## Support
 
