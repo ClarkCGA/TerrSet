@@ -32,3 +32,7 @@ Check out TerrSet [Support Center](https://forums.clarklabs.org/) to access a kn
 ## Copyright and License
 
 ©1987-2025 Clark Center for Geospatial Analytics (formerly Clark Labs). This software is free to use and distribute under the terms of the [TerrSet End User License Agreement](LICENSE).
+
+## How to cite TerrSet liberaGIS
+
+Eastman, J.R., (2024) TerrSet liberaGIS, Clark University, Worcester, MA. https://github.com/ClarkCGA/TerrSet
