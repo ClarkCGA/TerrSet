@@ -1,6 +1,6 @@
-# TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.04)
+# TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.05)
 
-This repository contains the installation files and guide for TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.04). This is the latest version of TerrSet that was released as a free software on Dec 2nd, 2024 and last updated on November 11th, 2025. (Read the announcement about TerrSet free version <a href="https://www.clarku.edu/centers/geospatial-analytics/2024/08/27/announcement-terrset-liberagis/" target="_blank">here</a>)
+This repository contains the installation files and guide for TerrSet liberaGIS Geospatial Monitoring and Modeling Software (v20.05). This is the latest version of TerrSet that was released as a free software on Dec 2nd, 2024 and last updated on May 14, 2026. (Read the announcement about TerrSet free version <a href="https://www.clarku.edu/centers/geospatial-analytics/2024/08/27/announcement-terrset-liberagis/" target="_blank">here</a>)
 
 ## Download
 
