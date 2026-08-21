@@ -1,4 +1,4 @@
-# TerrSet liberaGIS (v20.00) Installation
+# TerrSet liberaGIS (v20.06) Installation
 
 TerrSet liberaGIS is being distributed as freeware and does not require the installation of a license file.
 
